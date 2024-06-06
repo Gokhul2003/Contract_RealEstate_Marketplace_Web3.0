@@ -8,8 +8,8 @@ module.exports = {
 };
 
 //DEPLOYING TO TEST NETWORKS LINK(Polygon)
-const NEXT_PUBLIC_POLYGON_MUMBAI_RPC = "https://polygon-mumbai.g.alchemy.com/v2/96KYrFzTS48tK0FkMW-jFQAhrSOFOTTl";
-const NEXT_PUBLIC_PRIVATE_KEY ="712a247809f262f94b0aab1cfa3477dc3a55086dab55d2f57443df4f2c7d0c7c";
+const NEXT_PUBLIC_POLYGON_MUMBAI_RPC = "your polygon test net rpc url";
+const NEXT_PUBLIC_PRIVATE_KEY ="your private key";
 
 module.exports = {
   solidity: {
