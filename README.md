@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# REAL ESTATE MARKETPLACE CONTRACT CODE
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This Contract demonstrates about Real Estate Markeplace which provide functionalities such as listing,updating,View etc..
 
-Try running some of the following tasks:
+First Try running this:-
 
 ```shell
 npx hardhat help
@@ -11,5 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+The below demonstrates the code to deploy to the polygon network.
 
 npx hardhat run scripts/deploy.js --network polygon_mumbai
