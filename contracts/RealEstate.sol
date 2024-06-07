@@ -16,7 +16,7 @@ contract RealEstate {
         string[] reviews;
     }
     
-    address payable contractOwner = payable(0xb309098bcB51E5C687a16FA41bD6055f47c9eBb0);
+    address payable contractOwner = payable();
     uint256 public listingPrice = 0.025 ether;
     mapping(uint256 => Property) private properties;
     uint256 public propertyIndex;
